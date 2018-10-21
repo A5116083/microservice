@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com-ocbc-microservice</groupId>
-    <artifactId>com.ocbc.common.model</artifactId>
+    <groupId>com-hotel-microservice</groupId>
+    <artifactId>com.hotel.common.model</artifactId>
     <version>1.0</version>
 
     <properties>
