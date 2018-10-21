@@ -3,7 +3,7 @@ package models;
 import enums.RoomStatus;
 import enums.RoomType;
 
-public class Room {
+public class RoomModel {
     private int roomId;
     private int hotelId;
     private RoomType roomType;
