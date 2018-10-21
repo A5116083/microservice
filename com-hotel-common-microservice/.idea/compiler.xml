@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com-ocbc-commonmodel" />
+        <module name="com-hotel-common-microservice" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="com-ocbc-commonmodel" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
