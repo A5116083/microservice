@@ -75,6 +75,28 @@
             <artifactId>vertx-jdbc-client</artifactId>
             <version>3.5.3</version>
         </dependency>
+        <dependency>
+            <groupId>com-hotel-microservice</groupId>
+            <artifactId>com.hotel.common.model</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com-hotel-microservice</groupId>
+            <artifactId>com.hotel.common.microservice</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com-hotel-microservice</groupId>
+            <artifactId>com.hotel.common.microservice</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com-hotel-microservice</groupId>
+            <artifactId>com.hotel.common.microservice</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
 
     </dependencies>
 
